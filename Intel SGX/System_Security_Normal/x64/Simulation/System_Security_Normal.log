@@ -1,0 +1,9 @@
+﻿  Creating untrusted proxy/bridge routines
+  pch.cpp
+  System_Security_Normal.cpp
+c:\users\angel\downloads\intel-sgx-crypto-demo-master\system_security_normal\system_security_normal.cpp(85): warning C4101: 'command': variable local sin referencia
+  GetOpt.cpp
+  Generando código...
+  System_Security_Trusted_u.c
+  System_Security_Normal.vcxproj -> C:\Users\Angel\Downloads\Intel-SGX-Crypto-Demo-master\x64\Simulation\System_Security_Normal.exe
+  System_Security_Normal.vcxproj -> C:\Users\Angel\Downloads\Intel-SGX-Crypto-Demo-master\x64\Simulation\System_Security_Normal.pdb (Full PDB)
